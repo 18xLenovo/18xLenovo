@@ -4,8 +4,8 @@
 
 ### 💻 Desarrollador Full Stack | Apasionado por la tecnología
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1Lenovo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseguadalupe1401@gmail.com)
 
 </div>
 
@@ -36,26 +36,12 @@ Desarrollador con experiencia en desarrollo web y bots de Discord. Me apasiona c
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=18xLenovo&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=18xLenovo&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=18xLenovo&theme=tokyonight&hide_border=true&locale=es)
-
-</div>
-
----
-
-## 📫 Contáctame
+## � Contáctame
 
 ¿Tienes algún proyecto en mente o quieres colaborar? ¡No dudes en contactarme!
 
-- 💬 **Discord:** Disponible para colaboraciones
-- 📧 **Gmail:** Abierto a oportunidades
+- 💬 **Discord:** 1Lenovo
+- 📧 **Gmail:** joseguadalupe1401@gmail.com
 
 ---
 
